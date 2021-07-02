@@ -1,3 +1,7 @@
 # Discord-Raid-Tool
-Made by me 
-I TRIED MY BEST DONT DO THIS WITH YOUR MAIN TOKEN WILL GET DISABLED OR WORSE
+Made by Mr Virus
+
+
+###installation###
+(If you want to change anything run the sln and have visual studio code 2019)
+The project has been built in the folder
