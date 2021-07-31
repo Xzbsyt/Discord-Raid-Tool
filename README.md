@@ -12,9 +12,8 @@ Token
 Token
 
 ###Disclaimer###
-It is not my fault i get your account banned or anything happens so good luck! 
+It is not my fault if get your account banned or anything happens so good luck! 
 
 
 
-Program made in c#
 
